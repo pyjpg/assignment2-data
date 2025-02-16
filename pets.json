@@ -1,0 +1,61 @@
+{
+  "adoptablePets": {
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Max",
+        "breed": "Labrador",
+        "age": 2,
+        "trait": "Friendly and energetic",
+        "description": "Max is a loving labrador who enjoys long walks and playing fetch.",
+        "image": "DogFood.jpg",
+        "status": "available",
+        "details": {
+          "gender": "Male",
+          "size": "Large",
+          "vaccinated": true,
+          "neutered": true,
+          "goodWith": ["children", "dogs", "cats"]
+        }
+      },
+      {
+        "id": 2,
+        "name": "Bella",
+        "breed": "German Shepherd",
+        "age": 3,
+        "trait": "Intelligent and loyal",
+        "description": "Bella is a well-trained German Shepherd who's great with families.",
+        "image": "CatTower.jpg",
+        "status": "available",
+        "details": {
+          "gender": "Female",
+          "size": "Large",
+          "vaccinated": true,
+          "neutered": true,
+          "goodWith": ["children", "dogs"]
+        }
+      },
+      {
+        "id": 3,
+        "name": "Charlie",
+        "breed": "Beagle",
+        "age": 1,
+        "trait": "Playful and curious",
+        "description": "Charlie is a young beagle full of energy and love for adventures.",
+        "image": "Cage.jpg",
+        "status": "available",
+        "details": {
+          "gender": "Male",
+          "size": "Medium",
+          "vaccinated": true,
+          "neutered": false,
+          "goodWith": ["children", "dogs", "cats"]
+        }
+      }
+    ],
+    "metadata": {
+      "lastUpdated": "2024-02-16T12:00:00Z",
+      "version": "1.0.0"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "/DogFood.jpg",
+      "name": "Premium Dog Food",
+      "description": "High-quality nutrition for adult dogs",
+      "isDiscounted": false,
+      "price": 29.99,
+      "category": "Food"
+    },
+    {
+      "id": 2,
+      "image": "/CatFood.jpg",
+      "name": "Organic Cat Food",
+      "description": "Natural ingredients, approaching sell-by date",
+      "isDiscounted": true,
+      "originalPrice": 24.99,
+      "price": 19.99,
+      "category": "Food"
+    },
+    {
+      "id": 3,
+      "image": "/PetBall.jpg",
+      "name": "Interactive Ball",
+      "description": "Durable play toy for dogs",
+      "isDiscounted": false,
+      "price": 12.99,
+      "category": "Toys"
+    },
+    {
+      "id": 4,
+      "image": "/CatTower.jpg",
+      "name": "Cat Scratch Post",
+      "description": "End of line item - last pieces available",
+      "isDiscounted": true,
+      "originalPrice": 34.99,
+      "price": 24.99,
+      "category": "Toys"
+    },
+    {
+      "id": 5,
+      "image": "/PetCollar.jpg",
+      "name": "Adjustable Collar",
+      "description": "Comfortable fit for all sizes",
+      "isDiscounted": false,
+      "price": 15.99,
+      "category": "Accessories"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "image": "/EasterRabbitToy.jpg",
+      "name": "Easter Bunny Plush Toy",
+      "description": "Squeaky bunny toy perfect for Easter fun",
+      "isDiscounted": false,
+      "price": 14.99,
+      "category": "Seasonal"
+    },
+    {
+      "id": 102,
+      "image": "/EasterTreats.jpg",
+      "name": "Easter Pet Treats Box",
+      "description": "Special edition treats with carrot and chicken flavors",
+      "isDiscounted": false,
+      "price": 9.99,
+      "category": "Food"
+    },
+    {
+      "id": 103,
+      "image": "/EasterEggToy.jpg",
+      "name": "Interactive Egg Puzzle Toy",
+      "description": "Hide treats inside these colorful eggs for hours of fun",
+      "isDiscounted": false,
+      "price": 18.99,
+      "category": "Toys"
+    },
+    {
+      "id": 104,
+      "image": "/SpringCollar.jpg",
+      "name": "Spring Floral Pet Collar",
+      "description": "Limited edition floral pattern collar for spring",
+      "isDiscounted": true,
+      "originalPrice": 19.99,
+      "price": 14.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 105,
+      "image": "/BunnyEarHat.jpg",
+      "name": "Bunny Ears Pet Hat",
+      "description": "Cute bunny ears costume for small to medium pets",
+      "isDiscounted": false,
+      "price": 12.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 106,
+      "image": "/DuckToy.jpg",
+      "name": "Spring Duckling Toy",
+      "description": "End of line item - soft yellow duck plush toy",
+      "isDiscounted": true,
+      "originalPrice": 11.99,
+      "price": 7.99,
+      "category": "Toys"
+    },
+    {
+      "id": 107,
+      "image": "/EasterBasket.jpg",
+      "name": "Pet Easter Basket",
+      "description": "Gift basket with toys and treats for your furry friend",
+      "isDiscounted": false,
+      "price": 24.99,
+      "category": "Seasonal"
+    },
+    {
+      "id": 108,
+      "image": "/SpringBandana.jpg",
+      "name": "Spring Flower Bandana",
+      "description": "Approaching sell-by date - seasonal pet accessories",
+      "isDiscounted": true,
+      "originalPrice": 9.99,
+      "price": 6.99,
+      "category": "Accessories"
+    }
+  ]
+}

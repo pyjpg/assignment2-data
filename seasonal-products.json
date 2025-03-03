@@ -7,7 +7,8 @@
       "description": "Squeaky bunny toy perfect for Easter fun",
       "isDiscounted": false,
       "price": 14.99,
-      "category": "Seasonal"
+      "category": "Seasonal",
+      "isSeasonal": true
     },
     {
       "id": 102,
@@ -16,7 +17,8 @@
       "description": "Special edition treats with carrot and chicken flavors",
       "isDiscounted": false,
       "price": 9.99,
-      "category": "Food"
+      "category": "Food",
+      "isSeasonal": true
     },
     {
       "id": 103,
@@ -25,7 +27,8 @@
       "description": "Hide treats inside these colorful eggs for hours of fun",
       "isDiscounted": false,
       "price": 18.99,
-      "category": "Toys"
+      "category": "Toys",
+      "isSeasonal": true
     },
     {
       "id": 104,
@@ -35,7 +38,8 @@
       "isDiscounted": true,
       "originalPrice": 19.99,
       "price": 14.99,
-      "category": "Accessories"
+      "category": "Accessories",
+      "isSeasonal": true
     },
     {
       "id": 105,
@@ -44,7 +48,8 @@
       "description": "Cute bunny ears costume for small to medium pets",
       "isDiscounted": false,
       "price": 12.99,
-      "category": "Accessories"
+      "category": "Accessories",
+      "isSeasonal": true
     },
     {
       "id": 106,
@@ -54,7 +59,8 @@
       "isDiscounted": true,
       "originalPrice": 11.99,
       "price": 7.99,
-      "category": "Toys"
+      "category": "Toys",
+      "isSeasonal": true
     },
     {
       "id": 107,
@@ -63,7 +69,8 @@
       "description": "Gift basket with toys and treats for your furry friend",
       "isDiscounted": false,
       "price": 24.99,
-      "category": "Seasonal"
+      "category": "Seasonal",
+      "isSeasonal": true
     }
   ]
 }

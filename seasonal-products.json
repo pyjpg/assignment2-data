@@ -64,16 +64,6 @@
       "isDiscounted": false,
       "price": 24.99,
       "category": "Seasonal"
-    },
-    {
-      "id": 108,
-      "image": "/SpringBandana.jpg",
-      "name": "Spring Flower Bandana",
-      "description": "Approaching sell-by date - seasonal pet accessories",
-      "isDiscounted": true,
-      "originalPrice": 9.99,
-      "price": 6.99,
-      "category": "Accessories"
     }
   ]
 }
